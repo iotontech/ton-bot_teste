@@ -9,6 +9,8 @@ Este é um código de exemplo de utilização da biblioteca **ton-bot** e teste 
 
 Consulte o arquivo [ton-bot.h](https://github.com/iotontech/ton-bot_teste/blob/master/src/ton-bot.h), ele contém todo o descritivo dos parâmetros e retornos de cada uma das funções da biblioteca.
 
+**Você poderá programar usando a IOTON-IDE ou o compilador online do mbed, [siga aqui o passo a passo](https://github.com/iotontech/ton-bot#primeiros-passos).**
+
 ## Licença
 
 COPYRIGHT(c) 2017 IOTON Technology (@iotontech) - contato@ioton.cc
