@@ -24,6 +24,9 @@
 ******************************************************************************
 */
 
+#ifndef TONBOT_H
+#define TONBOT_H
+
 /* Includes ------------------------------------------------------------------*/
 #include "mbed.h"
 #include "QEI.h"
@@ -174,6 +177,9 @@ uint8_t getSensoresParede(float* lf, float* l, float* r, float* rf);
 *		o robô precisa se deslocar para a esquerda)
 */
 int32_t getSensoresLinha();
+
+
+#endif /* TONBOT_H_ */
 
 /**
 * @}
